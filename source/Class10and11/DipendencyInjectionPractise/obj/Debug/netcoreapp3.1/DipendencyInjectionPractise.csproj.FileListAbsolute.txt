@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\bin\Debug\netcoreapp3.1\DipendencyInjectionPractise.exe
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\bin\Debug\netcoreapp3.1\DipendencyInjectionPractise.deps.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\bin\Debug\netcoreapp3.1\DipendencyInjectionPractise.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\bin\Debug\netcoreapp3.1\DipendencyInjectionPractise.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\bin\Debug\netcoreapp3.1\DipendencyInjectionPractise.dll
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\bin\Debug\netcoreapp3.1\DipendencyInjectionPractise.pdb
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\obj\Debug\netcoreapp3.1\DipendencyInjectionPractise.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\obj\Debug\netcoreapp3.1\DipendencyInjectionPractise.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\obj\Debug\netcoreapp3.1\DipendencyInjectionPractise.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\obj\Debug\netcoreapp3.1\DipendencyInjectionPractise.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\obj\Debug\netcoreapp3.1\DipendencyInjectionPractise.dll
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\obj\Debug\netcoreapp3.1\DipendencyInjectionPractise.pdb
+F:\DotNetSelfPractise_Home\source\Class10and11\DipendencyInjectionPractise\obj\Debug\netcoreapp3.1\DipendencyInjectionPractise.genruntimeconfig.cache
