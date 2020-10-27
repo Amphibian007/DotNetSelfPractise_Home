@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\bin\Debug\netcoreapp3.1\DIPractise4.exe
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\bin\Debug\netcoreapp3.1\DIPractise4.deps.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\bin\Debug\netcoreapp3.1\DIPractise4.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\bin\Debug\netcoreapp3.1\DIPractise4.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\bin\Debug\netcoreapp3.1\DIPractise4.dll
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\bin\Debug\netcoreapp3.1\DIPractise4.pdb
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\obj\Debug\netcoreapp3.1\DIPractise4.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\obj\Debug\netcoreapp3.1\DIPractise4.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\obj\Debug\netcoreapp3.1\DIPractise4.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\obj\Debug\netcoreapp3.1\DIPractise4.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\obj\Debug\netcoreapp3.1\DIPractise4.dll
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\obj\Debug\netcoreapp3.1\DIPractise4.pdb
+F:\DotNetSelfPractise_Home\source\Class10and11\DIPractise4\obj\Debug\netcoreapp3.1\DIPractise4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\bin\Debug\netcoreapp3.1\DI Practise 3.exe
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\bin\Debug\netcoreapp3.1\DI Practise 3.deps.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\bin\Debug\netcoreapp3.1\DI Practise 3.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\bin\Debug\netcoreapp3.1\DI Practise 3.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\bin\Debug\netcoreapp3.1\DI Practise 3.dll
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\bin\Debug\netcoreapp3.1\DI Practise 3.pdb
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\obj\Debug\netcoreapp3.1\DI Practise 3.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\obj\Debug\netcoreapp3.1\DI Practise 3.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\obj\Debug\netcoreapp3.1\DI Practise 3.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\obj\Debug\netcoreapp3.1\DI Practise 3.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\obj\Debug\netcoreapp3.1\DI Practise 3.dll
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\obj\Debug\netcoreapp3.1\DI Practise 3.pdb
+F:\DotNetSelfPractise_Home\source\Class10and11\DI Practise 3\obj\Debug\netcoreapp3.1\DI Practise 3.genruntimeconfig.cache
