@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQsGLhRBL0zCfzCNNOsQdBC6F9JLr/93iEEsBcBkXhm8hJDzSTQe2VWw7/6aQKlkgH57u1HaCtifQew6HXxwbQ==",
+  "success": true,
+  "projectFilePath": "F:\\DotNetSelfPractise_Home\\source\\Class10and11\\AutofacWithClassLibrary\\AutofacFinalTrying2\\Contract\\Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dracula007\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dracula007\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

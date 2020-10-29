@@ -1,0 +1,9 @@
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\bin\Debug\netstandard2.0\Contract.deps.json
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\bin\Debug\netstandard2.0\Contract.dll
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\bin\Debug\netstandard2.0\Contract.pdb
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\obj\Debug\netstandard2.0\Contract.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\obj\Debug\netstandard2.0\Contract.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\obj\Debug\netstandard2.0\Contract.dll
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacWithClassLibrary\AutofacFinalTrying2\Contract\obj\Debug\netstandard2.0\Contract.pdb
