@@ -18,7 +18,7 @@ namespace TryingAutofac.Controllers
         {
             _logger = logger;
             _emailService = emailService;
-        }
+         }
 
         public IActionResult Index()
         {

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "88N+/twVVeVpeFmqWeTAJWxH7dvKDGilNiqce+QSH2HlVINUBjOMg/Wgd2Ft+Ro8YIhx0UBaEMGQi0cHeQ5gPg==",
+  "success": true,
+  "projectFilePath": "F:\\DotNetSelfPractise_Home\\source\\Class10and11\\AutofacTrying\\Trying3\\Trying3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dracula007\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dracula007\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.0.2\\autofac.extensions.dependencyinjection.7.0.2.nupkg.sha512",
+    "C:\\Users\\Dracula007\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Dracula007\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
