@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLayout1", "MyLayout1\MyLayout1.csproj", "{20B01DFE-2937-43F1-85AE-F5B3FD94386F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRazorView", "MyRazorView\MyRazorView.csproj", "{23F557A8-B83E-46AB-95DB-80F9517F603C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B01DFE-2937-43F1-85AE-F5B3FD94386F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B01DFE-2937-43F1-85AE-F5B3FD94386F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B01DFE-2937-43F1-85AE-F5B3FD94386F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B01DFE-2937-43F1-85AE-F5B3FD94386F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F557A8-B83E-46AB-95DB-80F9517F603C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F557A8-B83E-46AB-95DB-80F9517F603C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F557A8-B83E-46AB-95DB-80F9517F603C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F557A8-B83E-46AB-95DB-80F9517F603C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BCEA10-CCBE-423B-8EA5-0C2F09401C87}
+	EndGlobalSection
+EndGlobal

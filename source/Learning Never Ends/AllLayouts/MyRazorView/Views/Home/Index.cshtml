@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@*<h1>Index</h1>
+
+<h3>This is from Index method</h3>
+
+<h3>Current date time is @DateTime.Now</h3>
+<h3>Current year is @DateTime.Now.Year</h3>
+
+@{ 
+    string name = "Dipto Das";
+    var currentDate = DateTime.Now.ToLongDateString();
+   <h4>My name is @name</h4>
+}
+
+<h4>@currentDate</h4>*@
+
+@{ 
+    List<string> myNames = new List<string>();
+    myNames.Add("Dipto");
+    myNames.Add("Pias");
+    myNames.Add("Das");
+
+    foreach(var item in myNames)
+    {
+        <p>@item</p>
+    }
+    }
