@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h2>@ViewData["myVar"]</h2>
+<h2>@ViewData["myVar2"]</h2>
+
+@{ 
+    foreach(var item in (string[])ViewData["myVar3"])
+    {
+        <p>@item</p>
+    }
+}
+
+@{ 
+    foreach(var item in (List<double>)ViewData["myVar4"])
+    {
+        <p>@item</p>
+    }
+}
+
+@{ 
+    var a = (ViewData_Project.Models.Student)ViewData["myVarDipto"];
+}
+<h3>@a.id</h3>
+<h3>@a.name</h3>
+<h3>@a.gender</h3>
+
+@{ 
+    var b = (ViewData_Project.Models.Student)ViewData["myVarPias"];
+}
+<h3>@b.name</h3>

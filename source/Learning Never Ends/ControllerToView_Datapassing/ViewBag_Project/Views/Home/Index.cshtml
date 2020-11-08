@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h3>@ViewBag.var1</h3>
+<h3>@ViewBag.var2</h3>
+@{ 
+    foreach(var item in ViewBag.var3)
+    {
+        <h3>@item</h3>
+    }
+}
+
+@{ 
+    var employeeData = ViewBag.var4;
+    <h4>@employeeData.Id</h4>
+    <h4>@employeeData.Name</h4>
+    <h4>@employeeData.City</h4>
+}
+
