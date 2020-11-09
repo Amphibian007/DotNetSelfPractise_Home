@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<a href="/Home/Details">content</a>
+<br/>
+@Html.ActionLink("Detalis  page", "Details", "Home");
+<br/>
+<a href="@Url.Action("Details","Home")">Details page 2</a>
+<br/>
+<a asp-controller="Home" asp-action="Details">Details page using taghelpers</a>
