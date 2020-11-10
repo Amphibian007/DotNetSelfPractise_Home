@@ -16,7 +16,7 @@ namespace Form1.Controllers
         [HttpPost]
         public string Index(Employee emp)
         {
-            return ($"Name is {emp.Name} , age is {emp.Age} ,gender is{emp.Gender}" +
+            return ($"Name is {emp.Name} , age is {emp.Age} ,gender is{emp.Gender}, " +
                   $"designation is {emp.Designation} and marital status is {emp.Married}");
         }
     }

@@ -1,0 +1,39 @@
+﻿@model Form2.Models.Employee;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4 mx-auto">
+            <form asp-action="Details" asp-controller="Home" method="post">
+
+                <input asp-for="Name" name="Name" placeholder="Enter your name " class="form-control" />
+                <br />
+                <input asp-for="Age" name="Age" placeholder="Enter your age " class="form-control" />
+                <br />
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                    <option value="">Select Gender</option>
+                </select>
+                <br />
+                <input asp-for="Designation" name="Designation" placeholder="Enter your designation " class="form-control" />
+                <br />
+                <input asp-for="Salary" name="Salary" placeholder="Enter your salary " class="form-control" />
+                <br />
+                <label>Married: </label>
+                <br />
+                <label>Yes</label>
+                <input type="radio" asp-for="Married" value="Yes" />
+                <label>No</label>
+                <input type="radio" asp-for="Married" value="No" />
+                <br/>
+
+                <input type="submit" name="Submit" class="btn btn-primary" />
+
+            </form>
+        </div>
+    </div>
+</div>
+
