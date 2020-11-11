@@ -1,0 +1,26 @@
+﻿@model Validation2.Models.Employee
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4 mx-auto">
+            <form asp-controller="Home" asp-action="Details" method="post">
+                <input asp-for="Name" name="Name" placeholder="Enter your name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+                <br />
+                <input asp-for="Designation" name="Designation" placeholder="Enter your designation" class="form-control" />
+                <span asp-validation-for="Designation" class="text-danger"></span>
+                <br />
+                <input type="submit" name="Submit" class="btn btn-primary" />
+
+            </form>
+        </div>
+    </div>
+</div>
+
+

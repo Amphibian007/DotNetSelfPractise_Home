@@ -1,0 +1,33 @@
+﻿@model RequiredValidation_Project1.Models.Employee
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4 mx-auto">
+            <h3 class="jumbotron bg-primary text-center text-capitalize" >Submission form</h3>
+            <form asp-controller="Home" asp-action="Details"  method="post">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                
+                <br/>
+
+                <label asp-for="Age"></label>
+                <input asp-for="Age" class="form-control"/>
+                
+                <br/>
+
+                <label asp-for="Gender"></label>
+                <input asp-for="Gender" class="form-control" />
+                
+                <br/>
+
+                <input type="submit" value="Submit" class="btn btn-primary"/>
+            </form>
+        </div>
+    </div>
+</div>
+
