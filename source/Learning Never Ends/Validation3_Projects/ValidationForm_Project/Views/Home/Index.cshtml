@@ -1,0 +1,49 @@
+﻿@model ValidationForm_Project.Models.Employee
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4 mx-auto">
+            <div asp-validation-summary="All" class="btn-outline-danger">
+
+            </div>
+            <h1 class="jumbotron bg-primary text-center" >Submission Form</h1>
+
+            <form asp-controller="Home" asp-action="Details" method="post">
+                
+                <input asp-for="Name" name="Name" placeholder="Enter your name: " class="form-control" />
+                <span asp-validation-for="Name" class="btn-outline-danger"></span>
+                <br />
+                <input asp-for="Gender" name="Gender" placeholder="Enter your gender: " class="form-control" />
+                <span asp-validation-for="Gender" class="btn-outline-danger"></span>
+                <br />
+                <input asp-for="Age" name="Age" placeholder="Enter your age" class="form-control" />
+                <span asp-validation-for="Age" class="btn-outline-danger"></span>
+                <br />
+                <input asp-for="Email" name="Email" placeholder="Enter your email" class="form-control" />
+                <span asp-validation-for="Email" class="btn-outline-danger"></span>
+                <br />
+                <input asp-for="Password" name="Password" placeholder="Enter your Password" class="form-control" />
+                <span asp-validation-for="Password" class="btn-outline-danger"></span>
+                <br />
+                <input asp-for="ConfirmPassword" name="ConfirmPassword" placeholder="Confirm your password" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="btn-outline-danger"></span>
+                <br />
+
+                <input asp-for="ChannelUrl" name="ChannelUrl" placeholder="Confirm your Urll" class="form-control" />
+                <span asp-validation-for="ChannelUrl" class="btn-outline-danger"></span>
+                <br />
+                
+                <input type="submit" name="Submit" class="btn btn-primary" />
+                <br />
+
+            </form>
+        </div>
+
+    </div>
+</div>
+
+
+
