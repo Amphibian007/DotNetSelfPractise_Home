@@ -1,0 +1,12 @@
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\bin\Debug\netcoreapp3.1\TextFileTask5.exe
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\bin\Debug\netcoreapp3.1\TextFileTask5.deps.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\bin\Debug\netcoreapp3.1\TextFileTask5.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\bin\Debug\netcoreapp3.1\TextFileTask5.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\bin\Debug\netcoreapp3.1\TextFileTask5.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\bin\Debug\netcoreapp3.1\TextFileTask5.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\obj\Debug\netcoreapp3.1\TextFileTask5.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\obj\Debug\netcoreapp3.1\TextFileTask5.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\obj\Debug\netcoreapp3.1\TextFileTask5.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\obj\Debug\netcoreapp3.1\TextFileTask5.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\obj\Debug\netcoreapp3.1\TextFileTask5.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileTask5\obj\Debug\netcoreapp3.1\TextFileTask5.genruntimeconfig.cache

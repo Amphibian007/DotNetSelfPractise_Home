@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\bin\Debug\netcoreapp3.1\TextFileReading2.exe
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\bin\Debug\netcoreapp3.1\TextFileReading2.deps.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\bin\Debug\netcoreapp3.1\TextFileReading2.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\bin\Debug\netcoreapp3.1\TextFileReading2.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\bin\Debug\netcoreapp3.1\TextFileReading2.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\bin\Debug\netcoreapp3.1\TextFileReading2.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\obj\Debug\netcoreapp3.1\TextFileReading2.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\obj\Debug\netcoreapp3.1\TextFileReading2.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\obj\Debug\netcoreapp3.1\TextFileReading2.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\obj\Debug\netcoreapp3.1\TextFileReading2.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\obj\Debug\netcoreapp3.1\TextFileReading2.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\obj\Debug\netcoreapp3.1\TextFileReading2.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\TextFiles\TextFileReading2\obj\Debug\netcoreapp3.1\TextFileReading2.genruntimeconfig.cache

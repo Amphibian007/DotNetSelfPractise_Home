@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\bin\Debug\netcoreapp3.1\InsideBook.exe
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\bin\Debug\netcoreapp3.1\InsideBook.deps.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\bin\Debug\netcoreapp3.1\InsideBook.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\bin\Debug\netcoreapp3.1\InsideBook.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\bin\Debug\netcoreapp3.1\InsideBook.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\bin\Debug\netcoreapp3.1\InsideBook.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\obj\Debug\netcoreapp3.1\InsideBook.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\obj\Debug\netcoreapp3.1\InsideBook.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\obj\Debug\netcoreapp3.1\InsideBook.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\obj\Debug\netcoreapp3.1\InsideBook.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\obj\Debug\netcoreapp3.1\InsideBook.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\obj\Debug\netcoreapp3.1\InsideBook.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter4Loop\InsideBook\obj\Debug\netcoreapp3.1\InsideBook.genruntimeconfig.cache
