@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsideBook", "IsideBook\IsideBook.csproj", "{F26ED19F-C0AD-42C7-8C92-29E11DCDDF76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsideBook2", "InsideBook2\InsideBook2.csproj", "{ECA7E5CA-3434-4347-9D77-D7329959BFE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26ED19F-C0AD-42C7-8C92-29E11DCDDF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26ED19F-C0AD-42C7-8C92-29E11DCDDF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26ED19F-C0AD-42C7-8C92-29E11DCDDF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26ED19F-C0AD-42C7-8C92-29E11DCDDF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA7E5CA-3434-4347-9D77-D7329959BFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA7E5CA-3434-4347-9D77-D7329959BFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA7E5CA-3434-4347-9D77-D7329959BFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA7E5CA-3434-4347-9D77-D7329959BFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8EC1925-4B2E-4FB6-92A9-3ACCAD98FAEA}
+	EndGlobalSection
+EndGlobal

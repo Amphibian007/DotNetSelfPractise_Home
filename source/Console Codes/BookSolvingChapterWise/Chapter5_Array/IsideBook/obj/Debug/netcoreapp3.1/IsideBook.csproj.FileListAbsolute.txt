@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\bin\Debug\netcoreapp3.1\IsideBook.exe
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\bin\Debug\netcoreapp3.1\IsideBook.deps.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\bin\Debug\netcoreapp3.1\IsideBook.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\bin\Debug\netcoreapp3.1\IsideBook.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\bin\Debug\netcoreapp3.1\IsideBook.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\bin\Debug\netcoreapp3.1\IsideBook.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\obj\Debug\netcoreapp3.1\IsideBook.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\obj\Debug\netcoreapp3.1\IsideBook.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\obj\Debug\netcoreapp3.1\IsideBook.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\obj\Debug\netcoreapp3.1\IsideBook.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\obj\Debug\netcoreapp3.1\IsideBook.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\obj\Debug\netcoreapp3.1\IsideBook.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter5_Array\IsideBook\obj\Debug\netcoreapp3.1\IsideBook.genruntimeconfig.cache

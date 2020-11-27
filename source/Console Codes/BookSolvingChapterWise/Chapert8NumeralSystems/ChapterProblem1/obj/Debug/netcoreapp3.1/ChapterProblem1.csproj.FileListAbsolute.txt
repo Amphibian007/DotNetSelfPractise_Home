@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\bin\Debug\netcoreapp3.1\ChapterProblem1.exe
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\bin\Debug\netcoreapp3.1\ChapterProblem1.deps.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\bin\Debug\netcoreapp3.1\ChapterProblem1.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\bin\Debug\netcoreapp3.1\ChapterProblem1.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\bin\Debug\netcoreapp3.1\ChapterProblem1.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\bin\Debug\netcoreapp3.1\ChapterProblem1.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\obj\Debug\netcoreapp3.1\ChapterProblem1.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\obj\Debug\netcoreapp3.1\ChapterProblem1.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\obj\Debug\netcoreapp3.1\ChapterProblem1.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\obj\Debug\netcoreapp3.1\ChapterProblem1.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\obj\Debug\netcoreapp3.1\ChapterProblem1.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\obj\Debug\netcoreapp3.1\ChapterProblem1.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapert8NumeralSystems\ChapterProblem1\obj\Debug\netcoreapp3.1\ChapterProblem1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\bin\Debug\netcoreapp3.1\Input.exe
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\bin\Debug\netcoreapp3.1\Input.deps.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\bin\Debug\netcoreapp3.1\Input.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\bin\Debug\netcoreapp3.1\Input.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\obj\Debug\netcoreapp3.1\Input.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\obj\Debug\netcoreapp3.1\Input.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\obj\Debug\netcoreapp3.1\Input.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\obj\Debug\netcoreapp3.1\Input.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\ClassTest6\Input\obj\Debug\netcoreapp3.1\Input.genruntimeconfig.cache

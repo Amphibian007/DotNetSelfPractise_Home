@@ -1,0 +1,12 @@
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\bin\Debug\netstandard2.0\Membership.deps.json
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\bin\Debug\netstandard2.0\Membership.dll
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\obj\Debug\netstandard2.0\Membership.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\obj\Debug\netstandard2.0\Membership.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\obj\Debug\netstandard2.0\Membership.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\bin\Debug\netstandard2.0\Membership.pdb
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\bin\Debug\netstandard2.0\Contracts.dll
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\bin\Debug\netstandard2.0\Contracts.pdb
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\obj\Debug\netstandard2.0\Membership.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\obj\Debug\netstandard2.0\Membership.csproj.CopyComplete
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\obj\Debug\netstandard2.0\Membership.dll
+F:\DotNetSelfPractise_Home\source\Classes\EFCorePractise\Membership\obj\Debug\netstandard2.0\Membership.pdb
