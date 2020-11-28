@@ -1,0 +1,9 @@
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Contracts\obj\Debug\netstandard2.0\Contracts.pdb

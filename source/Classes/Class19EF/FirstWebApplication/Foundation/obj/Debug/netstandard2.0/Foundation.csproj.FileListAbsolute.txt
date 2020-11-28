@@ -1,0 +1,12 @@
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\Foundation.deps.json
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\Foundation.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\Foundation.pdb
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\DataAccessLayer.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.csproj.CopyComplete
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.pdb
