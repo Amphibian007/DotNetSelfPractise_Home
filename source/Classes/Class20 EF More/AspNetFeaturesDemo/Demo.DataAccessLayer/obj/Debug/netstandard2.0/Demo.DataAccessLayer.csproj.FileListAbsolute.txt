@@ -1,0 +1,9 @@
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.deps.json
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.DataAccessLayer\obj\Debug\netstandard2.0\Demo.DataAccessLayer.pdb

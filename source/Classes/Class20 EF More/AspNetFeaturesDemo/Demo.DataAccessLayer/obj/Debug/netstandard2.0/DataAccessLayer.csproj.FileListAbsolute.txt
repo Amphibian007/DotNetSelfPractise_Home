@@ -1,0 +1,9 @@
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

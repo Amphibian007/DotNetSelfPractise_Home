@@ -1,0 +1,12 @@
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.deps.json
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.Foundation.pdb
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\bin\Debug\netstandard2.0\Demo.DataAccessLayer.pdb
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.csproj.CopyComplete
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.dll
+F:\DotNetSelfPractise_Home\source\Classes\Class20 EF More\AspNetFeaturesDemo\Demo.Foundation\obj\Debug\netstandard2.0\Demo.Foundation.pdb

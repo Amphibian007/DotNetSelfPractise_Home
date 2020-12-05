@@ -1,0 +1,12 @@
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\Foundation.deps.json
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\Foundation.dll
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\Foundation.pdb
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\DataAccessLayer.dll
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.csprojAssemblyReference.cache
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.AssemblyInfoInputs.cache
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.AssemblyInfo.cs
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.csproj.CoreCompileInputs.cache
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.csproj.CopyComplete
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.dll
+F:\Repo\Class19 EF With Unit of Work and Repository Pattern\aspnetb4\source\Web\FirstWebApplication\Foundation\obj\Debug\netstandard2.0\Foundation.pdb
