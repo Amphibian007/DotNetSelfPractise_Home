@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Food>
+@{
+    ViewData["Title"] = "Index";
+}
+<a asp-action="Create">Create New</a>
+<h3>All the foods are shown here</h3>
+<table width="50%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Taste</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var food in Model)
+        {
+            <tr>
+                <th>@food.Id</th>
+                <th>@food.Name</th>
+                <th>@food.Taste</th>
+                <th>@food.Type</th>
+            </tr>
+        }
+    </tbody>
+</table>
+

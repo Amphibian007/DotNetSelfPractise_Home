@@ -1,0 +1,13 @@
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\bin\Debug\netcoreapp3.1\Event_DelegatesByMosh.exe
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\bin\Debug\netcoreapp3.1\Event_DelegatesByMosh.deps.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\bin\Debug\netcoreapp3.1\Event_DelegatesByMosh.runtimeconfig.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\bin\Debug\netcoreapp3.1\Event_DelegatesByMosh.runtimeconfig.dev.json
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\bin\Debug\netcoreapp3.1\Event_DelegatesByMosh.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\bin\Debug\netcoreapp3.1\Event_DelegatesByMosh.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\obj\Debug\netcoreapp3.1\Event_DelegatesByMosh.csprojAssemblyReference.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\obj\Debug\netcoreapp3.1\Event_DelegatesByMosh.AssemblyInfoInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\obj\Debug\netcoreapp3.1\Event_DelegatesByMosh.AssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\obj\Debug\netcoreapp3.1\Event_DelegatesByMosh.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\obj\Debug\netcoreapp3.1\Event_DelegatesByMosh.dll
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\obj\Debug\netcoreapp3.1\Event_DelegatesByMosh.pdb
+F:\DotNetSelfPractise_Home\source\Console Codes\TopicWise\Events_Delegates_Action_Func\Event_DelegatesByMosh\obj\Debug\netcoreapp3.1\Event_DelegatesByMosh.genruntimeconfig.cache

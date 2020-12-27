@@ -1,0 +1,37 @@
+﻿@model Game
+@{
+    ViewData["Title"] = "Create";
+}
+<a asp-action="Index">Show all employees</a>
+<h3>Creating New Game</h3>
+<form method="post">
+    <p>
+        <label asp-for="Id">Your Id</label>
+        <input asp-for="Id" />
+    </p>
+    <p>
+        <label asp-for="Name">Your Name</label>    
+        <input asp-for="Name" />
+    </p>
+    <p>
+        <label asp-for="Difficulty">Enter Game Type</label>
+        <select asp-for="Difficulty">
+            <option value="Easy">Easy</option>
+            <option value="Medium">Medium</option>
+            <option value="Hard">Hard</option>
+        </select>
+    </p>
+    <p>
+        <label asp-for="Type">Type</label>
+        <input asp-for="Type" />
+    </p>
+    <p>
+        <label asp-for="Rate">Raing</label>
+        <input type="radio" asp-for="Rate" value="G" />Good
+        <input type="radio" asp-for="Rate" value="A"/>Average
+    </p>
+    <p>
+        <button type="submit">Submit</button>
+    </p>
+</form>
+

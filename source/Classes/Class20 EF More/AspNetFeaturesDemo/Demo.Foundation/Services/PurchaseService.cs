@@ -19,5 +19,14 @@ namespace Foundation.Services
             _shopingUnitOfWork.ProductRepositroy.Remove(product);
             _shopingUnitOfWork.Save();
         }
+        public IList<Product> GetProducts()
+        {
+            return _shopingUnitOfWork.ProductRepositroy.GetAll();
+        }
+        public void AddProduct(Product product)
+        {
+            _shopingUnitOfWork.ProductRepositroy.Add(product);
+            _shopingUnitOfWork.Save();
+        }
     }
 }

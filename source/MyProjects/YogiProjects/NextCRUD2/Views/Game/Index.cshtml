@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Game>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>All the games are here</h3>
+<table width="50%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Difficulty</th>
+            <th>Rating</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var game in Model)
+        {
+        <tr>          
+                <td>@game.Id</td>
+                <td>@game.Name</td>
+                <td>@game.Type</td>
+                <td>@game.Difficulty</td>
+                <td>@game.Rate</td>  
+                <td><a asp-action="Update" asp-route-gameName="@game.Name">Update</a></td>
+                <td>
+                    <form asp-action="Delete" method="post">
+                        <input type="hidden" name="gameName" value="@game.Name" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+        </tr>
+        }
+    </tbody>
+</table>
+

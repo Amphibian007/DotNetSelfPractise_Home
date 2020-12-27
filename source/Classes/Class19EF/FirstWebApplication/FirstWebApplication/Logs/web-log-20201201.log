@@ -1,0 +1,8 @@
+2020-12-01 13:57:16.726 +06:00 [INF] Application Starting up
+2020-12-01 13:58:30.891 +06:00 [ERR] Faild in test
+System.ArgumentNullException: Value cannot be null. (Parameter 'entity')
+   at Microsoft.EntityFrameworkCore.Utilities.Check.NotNull[T](T value, String parameterName)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove[TEntity](TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.Remove(TEntity entity)
+   at FirstWebApplication.Models.IndexModel.Delete() in F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\FirstWebApplication\Models\IndexModel.cs:line 62
+   at FirstWebApplication.Controllers.HomeController.Index() in F:\DotNetSelfPractise_Home\source\Classes\Class19EF\FirstWebApplication\FirstWebApplication\Controllers\HomeController.cs:line 29

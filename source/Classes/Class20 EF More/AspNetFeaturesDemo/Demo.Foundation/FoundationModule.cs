@@ -25,10 +25,10 @@ namespace Foundation
         {
             builder.RegisterType<ShopingContext>()
                 .WithParameter("connectionString", _connectionString)
-                .WithParameter("migrationAssemblyName", _migrationAssemblyName);
-            builder.RegisterType<ProductRepository>().As<IProductRepository>();
-            builder.RegisterType<ShopingUnitOfWork>().As<IShopingUnitOfWork>();
-            builder.RegisterType<PurchaseService>().As<IPurchaseService>();
+                .WithParameter("migrationAssemblyName", _migrationAssemblyName).InstancePerLifetimeScope();
+            builder.RegisterType<ProductRepository>().As<IProductRepository>().InstancePerLifetimeScope();
+            builder.RegisterType<ShopingUnitOfWork>().As<IShopingUnitOfWork>().InstancePerLifetimeScope();
+            builder.RegisterType<PurchaseService>().As<IPurchaseService>().InstancePerLifetimeScope();
 
             base.Load(builder);
         }

@@ -21,7 +21,12 @@ namespace FoodProject
 
         protected override void Load(ContainerBuilder builder)
         {
-            builder.RegisterType<FoodDelivery>().As<IFood>();
+            builder.RegisterType<FoodDelivery>().As<IFood>().SingleInstance();
+
+            builder.RegisterType<ShoppingContext>()
+             .WithParameter("connectionString", _connectionString)
+             .WithParameter("migrationAssemblyName", _migrationAssemblyName);
+
             builder.RegisterType<IndexModel>().AsSelf();
             base.Load(builder);
         }

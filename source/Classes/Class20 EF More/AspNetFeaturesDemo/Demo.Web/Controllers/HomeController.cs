@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Demo.Web.Models;
+using Autofac;
 
 namespace Demo.Web.Controllers
 {
@@ -20,6 +21,9 @@ namespace Demo.Web.Controllers
 
         public IActionResult Index()
         {
+            var model = Startup.AutofacContainer.Resolve<IndexModel>();
+            model.Name = "Camera";
+            model.Add();
             return View();
         }
 

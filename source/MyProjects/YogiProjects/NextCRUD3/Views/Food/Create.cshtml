@@ -1,0 +1,35 @@
+﻿@model Food
+@{
+    ViewData["Title"] = "Create";
+}
+<a asp-action="Create">Create New</a>
+<h3>Create New Food</h3>
+<form method="post">
+    <p>
+    <label asp-for="Id">Id</label>
+    <input asp-for="Id" />
+    </p>
+
+    <p>
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" />
+    </p>
+    <p>
+        <label asp-for="Type">Type</label>
+        <select asp-for="Type">
+            <option value="Deshi">Deshi</option>
+            <option value="Deshi">Indian</option>
+            <option value="Deshi">Tamil</option>
+        </select>
+    </p>
+    <p>
+        <label asp-for="Taste">Taste</label>
+        <input type="radio" asp-for="Taste" value="Good" />Good 
+        <input type="radio" asp-for="Taste" value="Average" />Average
+    </p>
+
+    <p>
+        <button type="submit">Submit</button>
+    </p>
+</form>
+

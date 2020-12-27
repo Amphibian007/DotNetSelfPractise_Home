@@ -81,9 +81,6 @@ F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\b
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.Views.pdb
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\bin\Debug\netcoreapp3.1\Autofac.dll
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
-F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.csproj.CoreCompileInputs.cache
-F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.MvcApplicationPartsAssemblyInfo.cs
-F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.MvcApplicationPartsAssemblyInfo.cache
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.Views.pdb
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.dll
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.pdb
@@ -92,3 +89,6 @@ F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\b
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\bin\Debug\netcoreapp3.1\Membership.pdb
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\bin\Debug\netcoreapp3.1\Contracts.dll
 F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\bin\Debug\netcoreapp3.1\Contracts.pdb
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.csproj.CoreCompileInputs.cache
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.MvcApplicationPartsAssemblyInfo.cs
+F:\DotNetSelfPractise_Home\source\Class10and11\AutofacFinalTrying3\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.MvcApplicationPartsAssemblyInfo.cache

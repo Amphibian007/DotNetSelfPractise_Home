@@ -27,20 +27,10 @@ namespace Demo.Web
 
         public void Add()
         {
-            _purchaseService.Purchase(new Product
+            _purchaseService.AddProduct(new Product
             {
-                Name = "Test Product",
-                Price = 23
-            },
-            new Customer
-            {
-                Name = "Jalal uddin",
-                Email = "xyz@gmail.com",
-                IsActive = true,
-                Username = "jalaluddin",
-                Password = "something",
-                PasswordSalt = "jdfjslkfjlsjf",
-                RegisterDate = DateTime.Now
+                Name = Name,
+                Price = 203
             });
         }
     }
