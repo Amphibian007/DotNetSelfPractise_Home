@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\bin\Debug\netcoreapp3.1\InsideBook1.exe
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\bin\Debug\netcoreapp3.1\InsideBook1.deps.json
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\bin\Debug\netcoreapp3.1\InsideBook1.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\bin\Debug\netcoreapp3.1\InsideBook1.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\bin\Debug\netcoreapp3.1\InsideBook1.dll
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\bin\Debug\netcoreapp3.1\InsideBook1.pdb
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\obj\Debug\netcoreapp3.1\InsideBook1.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\obj\Debug\netcoreapp3.1\InsideBook1.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\obj\Debug\netcoreapp3.1\InsideBook1.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\obj\Debug\netcoreapp3.1\InsideBook1.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\obj\Debug\netcoreapp3.1\InsideBook1.dll
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\obj\Debug\netcoreapp3.1\InsideBook1.pdb
+G:\DotNetSelfPractise_Home\source\Console Codes\BookSolvingChapterWise\Chapter9Methods\InsideBook1\InsideBook1\obj\Debug\netcoreapp3.1\InsideBook1.genruntimeconfig.cache
