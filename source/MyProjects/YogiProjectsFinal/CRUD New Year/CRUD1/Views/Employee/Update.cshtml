@@ -1,0 +1,47 @@
+﻿@model Employee
+@{
+    Layout = null;
+}
+<a asp-action="Index">View all employees</a>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <h3>Update</h3>
+    <form method="post">
+        <p>
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" />
+        </p>
+        <p>
+            <label asp-for="Age">Age</label>
+            <input asp-for="Age" />
+        </p>
+        <p>
+            <label asp-for="Salary">Salary</label>
+            <input asp-for="Salary" />
+        </p>
+        <p>
+            <label asp-for="Department">Department</label>
+            <select asp-for="Department">
+                <option value="CSE">CSE</option>
+                <option value="IT">IT</option>
+                <option value="Physics">Physics</option>
+            </select>
+        </p>
+
+        <p>
+            <label asp-for="Gender">Gender</label>
+            <input type="radio" value="M" asp-for="Gender" />Male
+            <input type="radio" value="F" asp-for="Gender" />Female
+        </p>
+        <p>
+            <button type="submit">Submit</button>
+        </p>
+    </form>
+</body>
+</html>
