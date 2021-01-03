@@ -1,0 +1,33 @@
+﻿@model Employee
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <a asp-action="Index">Insert new employee</a>
+    <form method="post">
+        <p>
+            <label asp-for="Name">Enter Employee Name</label>
+            <input asp-for="Name" />
+        </p>
+        <p>
+            <label asp-for="Designation">Enter Employee Designation</label>
+            <input asp-for="Designation" />
+        </p>
+        <p>
+            <label asp-for="DepartmentId">Enter Employee Designation</label>
+            <input asp-for="DepartmentId" />
+        </p>
+        <p>
+            <button type="submit">Submit</button>
+        </p>
+    </form>
+</body>
+</html>

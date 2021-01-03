@@ -1,0 +1,27 @@
+﻿@model Information
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Enter company details</h1>
+<form method="post">
+    <p>
+        <label asp-for="Name">Enter your name</label>
+        <input asp-for="Name" />
+    </p>
+    <p>
+        <label asp-for="License">Enter your License</label>
+        <input asp-for="License" />
+    </p>
+    <p>
+        <label asp-for="Established">Enter your establisment date</label>
+        <input asp-for="Established" />
+    </p>
+    <p>
+        <label asp-for="Revenue">Enter your revenue</label>
+        <input asp-for="Revenue" />
+    </p>
+    <button type="submit">Submit</button>
+
+</form>
+
