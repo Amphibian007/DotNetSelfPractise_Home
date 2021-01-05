@@ -37,7 +37,14 @@ namespace YogiCRUD1.Controllers
         {
             return View();
         }
-
+        public IActionResult Display()
+        {
+            IEnumerable<Employee> employeeList = _companyContext.Employee.Include(e=>e.Department);
+            //var emp =  _companyContext.Employee.Where(e => e.Name == "Dipto")
+            //                       .FirstOrDefault();
+            //string deptName = emp.Department.Name;
+            return View(employeeList);
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
