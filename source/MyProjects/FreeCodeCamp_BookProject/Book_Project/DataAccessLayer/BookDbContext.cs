@@ -14,5 +14,6 @@ namespace Book_Project.DataAccessLayer
 
         }
         public DbSet<Category> Category { get; set; }
+        public DbSet<Application> Application { get; set; }
     }
 }
