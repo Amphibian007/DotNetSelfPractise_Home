@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\bin\Debug\netcoreapp3.1\EventsPractise.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\bin\Debug\netcoreapp3.1\EventsPractise.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\bin\Debug\netcoreapp3.1\EventsPractise.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\bin\Debug\netcoreapp3.1\EventsPractise.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\bin\Debug\netcoreapp3.1\EventsPractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\bin\Debug\netcoreapp3.1\EventsPractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\obj\Debug\netcoreapp3.1\EventsPractise.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\obj\Debug\netcoreapp3.1\EventsPractise.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\obj\Debug\netcoreapp3.1\EventsPractise.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\obj\Debug\netcoreapp3.1\EventsPractise.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\obj\Debug\netcoreapp3.1\EventsPractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\obj\Debug\netcoreapp3.1\EventsPractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\EventsPractise\obj\Debug\netcoreapp3.1\EventsPractise.genruntimeconfig.cache
