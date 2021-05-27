@@ -1,0 +1,15 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\bin\Debug\Casting.exe.config
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\bin\Debug\Casting.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\bin\Debug\Casting.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\MainWindow.g.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\App.g.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting_MarkupCompile.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting_MarkupCompile.lref
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\MainWindow.baml
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting.g.resources
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting.Properties.Resources.resources
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting.csproj.GenerateResource.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\Casting\obj\Debug\Casting.pdb

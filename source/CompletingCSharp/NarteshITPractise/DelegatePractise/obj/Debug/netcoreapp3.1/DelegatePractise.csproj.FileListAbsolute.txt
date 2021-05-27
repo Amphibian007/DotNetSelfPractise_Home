@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.genruntimeconfig.cache

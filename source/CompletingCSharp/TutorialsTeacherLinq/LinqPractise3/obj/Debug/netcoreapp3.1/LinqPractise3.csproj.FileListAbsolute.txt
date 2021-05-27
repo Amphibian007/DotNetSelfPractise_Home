@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\bin\Debug\netcoreapp3.1\LinqPractise3.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\bin\Debug\netcoreapp3.1\LinqPractise3.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\bin\Debug\netcoreapp3.1\LinqPractise3.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\bin\Debug\netcoreapp3.1\LinqPractise3.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\bin\Debug\netcoreapp3.1\LinqPractise3.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\bin\Debug\netcoreapp3.1\LinqPractise3.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\obj\Debug\netcoreapp3.1\LinqPractise3.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\obj\Debug\netcoreapp3.1\LinqPractise3.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\obj\Debug\netcoreapp3.1\LinqPractise3.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\obj\Debug\netcoreapp3.1\LinqPractise3.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\obj\Debug\netcoreapp3.1\LinqPractise3.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\obj\Debug\netcoreapp3.1\LinqPractise3.genruntimeconfig.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\TutorialsTeacherLinq\LinqPractise3\obj\Debug\netcoreapp3.1\LinqPractise3.csprojAssemblyReference.cache

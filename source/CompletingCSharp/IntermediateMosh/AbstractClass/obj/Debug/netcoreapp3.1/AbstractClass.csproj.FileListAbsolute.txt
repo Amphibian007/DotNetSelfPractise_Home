@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.genruntimeconfig.cache

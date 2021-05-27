@@ -1,0 +1,7 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\ExceptionPractise\bin\Debug\ExceptionPractise.exe.config
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\ExceptionPractise\bin\Debug\ExceptionPractise.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\ExceptionPractise\bin\Debug\ExceptionPractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\ExceptionPractise\obj\Debug\ExceptionPractise.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\ExceptionPractise\obj\Debug\ExceptionPractise.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\ExceptionPractise\obj\Debug\ExceptionPractise.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\ExceptionPractise\obj\Debug\ExceptionPractise.pdb

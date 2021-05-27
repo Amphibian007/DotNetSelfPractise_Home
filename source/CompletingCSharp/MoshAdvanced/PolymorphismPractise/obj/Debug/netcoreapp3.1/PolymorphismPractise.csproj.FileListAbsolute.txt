@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\bin\Debug\netcoreapp3.1\PolymorphismPractise.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\bin\Debug\netcoreapp3.1\PolymorphismPractise.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\bin\Debug\netcoreapp3.1\PolymorphismPractise.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\bin\Debug\netcoreapp3.1\PolymorphismPractise.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\bin\Debug\netcoreapp3.1\PolymorphismPractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\bin\Debug\netcoreapp3.1\PolymorphismPractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\obj\Debug\netcoreapp3.1\PolymorphismPractise.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\obj\Debug\netcoreapp3.1\PolymorphismPractise.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\obj\Debug\netcoreapp3.1\PolymorphismPractise.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\obj\Debug\netcoreapp3.1\PolymorphismPractise.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\obj\Debug\netcoreapp3.1\PolymorphismPractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\obj\Debug\netcoreapp3.1\PolymorphismPractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\MoshAdvanced\PolymorphismPractise\obj\Debug\netcoreapp3.1\PolymorphismPractise.genruntimeconfig.cache

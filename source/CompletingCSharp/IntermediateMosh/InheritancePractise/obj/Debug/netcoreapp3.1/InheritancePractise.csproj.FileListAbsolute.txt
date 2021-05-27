@@ -1,0 +1,16 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\bin\Debug\netcoreapp3.1\InheritancePractise.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\bin\Debug\netcoreapp3.1\InheritancePractise.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\bin\Debug\netcoreapp3.1\InheritancePractise.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\bin\Debug\netcoreapp3.1\InheritancePractise.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\bin\Debug\netcoreapp3.1\InheritancePractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\bin\Debug\netcoreapp3.1\InheritancePractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\bin\Debug\netcoreapp3.1\MyCustomer.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\bin\Debug\netcoreapp3.1\MyCustomer.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\obj\Debug\netcoreapp3.1\InheritancePractise.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\obj\Debug\netcoreapp3.1\InheritancePractise.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\obj\Debug\netcoreapp3.1\InheritancePractise.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\obj\Debug\netcoreapp3.1\InheritancePractise.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\obj\Debug\netcoreapp3.1\InheritancePractise.csproj.CopyComplete
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\obj\Debug\netcoreapp3.1\InheritancePractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\obj\Debug\netcoreapp3.1\InheritancePractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\InheritancePractise\obj\Debug\netcoreapp3.1\InheritancePractise.genruntimeconfig.cache

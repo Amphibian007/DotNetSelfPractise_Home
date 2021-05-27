@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\bin\Debug\netcoreapp3.1\ExtensionMethodProject.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\bin\Debug\netcoreapp3.1\ExtensionMethodProject.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\bin\Debug\netcoreapp3.1\ExtensionMethodProject.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\bin\Debug\netcoreapp3.1\ExtensionMethodProject.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\bin\Debug\netcoreapp3.1\ExtensionMethodProject.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\bin\Debug\netcoreapp3.1\ExtensionMethodProject.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\obj\Debug\netcoreapp3.1\ExtensionMethodProject.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\obj\Debug\netcoreapp3.1\ExtensionMethodProject.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\obj\Debug\netcoreapp3.1\ExtensionMethodProject.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\obj\Debug\netcoreapp3.1\ExtensionMethodProject.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\obj\Debug\netcoreapp3.1\ExtensionMethodProject.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\obj\Debug\netcoreapp3.1\ExtensionMethodProject.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\ExtensionMethodProject\obj\Debug\netcoreapp3.1\ExtensionMethodProject.genruntimeconfig.cache

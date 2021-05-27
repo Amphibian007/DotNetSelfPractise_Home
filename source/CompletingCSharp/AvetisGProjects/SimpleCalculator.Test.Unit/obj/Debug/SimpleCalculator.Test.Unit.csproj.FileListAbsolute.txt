@@ -1,0 +1,17 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\SampleCalculator.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\SampleCalculator.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\SampleCalculator.exe.config
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.CopyComplete
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AvetisGProjects\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.pdb

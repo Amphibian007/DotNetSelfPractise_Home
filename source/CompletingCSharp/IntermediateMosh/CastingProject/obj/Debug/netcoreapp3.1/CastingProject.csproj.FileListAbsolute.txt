@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\bin\Debug\netcoreapp3.1\CastingProject.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\bin\Debug\netcoreapp3.1\CastingProject.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\bin\Debug\netcoreapp3.1\CastingProject.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\bin\Debug\netcoreapp3.1\CastingProject.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\bin\Debug\netcoreapp3.1\CastingProject.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\bin\Debug\netcoreapp3.1\CastingProject.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\obj\Debug\netcoreapp3.1\CastingProject.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\obj\Debug\netcoreapp3.1\CastingProject.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\obj\Debug\netcoreapp3.1\CastingProject.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\obj\Debug\netcoreapp3.1\CastingProject.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\obj\Debug\netcoreapp3.1\CastingProject.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\obj\Debug\netcoreapp3.1\CastingProject.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\IntermediateMosh\CastingProject\obj\Debug\netcoreapp3.1\CastingProject.genruntimeconfig.cache

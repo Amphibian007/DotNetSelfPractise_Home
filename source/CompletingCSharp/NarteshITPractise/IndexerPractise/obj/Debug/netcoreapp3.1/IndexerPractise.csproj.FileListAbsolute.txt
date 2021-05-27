@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\obj\Debug\netcoreapp3.1\IndexerPractise.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\obj\Debug\netcoreapp3.1\IndexerPractise.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\obj\Debug\netcoreapp3.1\IndexerPractise.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\obj\Debug\netcoreapp3.1\IndexerPractise.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\bin\Debug\netcoreapp3.1\IndexerPractise.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\bin\Debug\netcoreapp3.1\IndexerPractise.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\bin\Debug\netcoreapp3.1\IndexerPractise.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\bin\Debug\netcoreapp3.1\IndexerPractise.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\bin\Debug\netcoreapp3.1\IndexerPractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\bin\Debug\netcoreapp3.1\IndexerPractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\obj\Debug\netcoreapp3.1\IndexerPractise.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\obj\Debug\netcoreapp3.1\IndexerPractise.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\NarteshITPractise\IndexerPractise\obj\Debug\netcoreapp3.1\IndexerPractise.genruntimeconfig.cache

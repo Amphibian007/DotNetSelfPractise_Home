@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InheritancePractise/1.0.0": {
+        "dependencies": {
+          "MyCustomer": "1.0.0"
+        },
+        "runtime": {
+          "InheritancePractise.dll": {}
+        }
+      },
+      "MyCustomer/1.0.0": {
+        "runtime": {
+          "MyCustomer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InheritancePractise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCustomer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
