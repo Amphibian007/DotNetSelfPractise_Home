@@ -1,0 +1,13 @@
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\bin\Debug\netcoreapp3.1\AdvancedMosh2.exe
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\bin\Debug\netcoreapp3.1\AdvancedMosh2.deps.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\bin\Debug\netcoreapp3.1\AdvancedMosh2.runtimeconfig.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\bin\Debug\netcoreapp3.1\AdvancedMosh2.runtimeconfig.dev.json
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\bin\Debug\netcoreapp3.1\AdvancedMosh2.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\bin\Debug\netcoreapp3.1\AdvancedMosh2.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\obj\Debug\netcoreapp3.1\AdvancedMosh2.csprojAssemblyReference.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\obj\Debug\netcoreapp3.1\AdvancedMosh2.AssemblyInfoInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\obj\Debug\netcoreapp3.1\AdvancedMosh2.AssemblyInfo.cs
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\obj\Debug\netcoreapp3.1\AdvancedMosh2.csproj.CoreCompileInputs.cache
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\obj\Debug\netcoreapp3.1\AdvancedMosh2.dll
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\obj\Debug\netcoreapp3.1\AdvancedMosh2.pdb
+G:\DotNetSelfPractise_Home\source\CompletingCSharp\AdvancedMosh2\AdvancedMosh2\obj\Debug\netcoreapp3.1\AdvancedMosh2.genruntimeconfig.cache
